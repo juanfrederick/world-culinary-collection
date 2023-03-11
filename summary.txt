@@ -7,3 +7,8 @@ China:
 1. Beijing Kaoya
 2. Hainan Jifan
 3. Wonton
+
+Jepang:
+1. Mochi
+2. Ramen
+3. Takoyaki
