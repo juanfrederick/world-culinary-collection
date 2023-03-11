@@ -2,3 +2,8 @@ Indonesia:
 1. Ketoprak
 2. Sate
 3. Soto
+
+China:
+1. Beijing Kaoya
+2. Hainan Jifan
+3. Wonton
